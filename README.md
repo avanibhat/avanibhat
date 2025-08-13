@@ -13,10 +13,6 @@ Master’s in Life Science Informatics, University of Bonn, Germany
 
 Bachelor's in Bioanalytical Science, University of Mumbai, India
 
-📫 Let’s Connect
-Email: avani2712bhat@gmail.com
-
-LinkedIn: linkedin.com/in/avani-bhat
 
 <!--
 **avanibhat/avanibhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
