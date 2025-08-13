@@ -1,5 +1,7 @@
-👋 Hi, I’m Avani Bhat
-I’m an AI Data Scientist with a strong interest in Large Language Models (LLMs) and Neural Networks in healthcare. My work focuses on designing intelligent, interpretable, and impactful AI solutions for biomedical and clinical applications.
+##👋 Hey There, I’m Avani Bhat
+
+I’m an AI Data Scientist with a strong interest in Large Language Models (LLMs) and Neural Networks in healthcare.
+My work focuses on designing intelligent, interpretable, and impactful AI solutions for biomedical and clinical applications.
 
 🔍 Current Work
 Research Assistant @ ZB MED – Developing a recommendation system for biomedical literature by integrating Knowledge Graph Embeddings with Large Language Models to improve semantic and contextual relevance.
