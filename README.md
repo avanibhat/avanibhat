@@ -1,4 +1,4 @@
-# 👋 Hey There, I’m Avani Bhat
+# 👋 Hey There, I’m Avani 
 
 I’m an AI Data Scientist with a strong interest in Large Language Models (LLMs) and Neural Networks in healthcare.
 My work focuses on designing intelligent, interpretable, and impactful AI solutions for biomedical and clinical applications.
