@@ -70,8 +70,7 @@ I build things at the intersection of biomedical data, NLP, and machine learning
   <i>The bonsai on this page grows from my commit history — powered by <a href="https://github.com/egorthinks/git-bonsai">git-bonsai</a> 🌳</i>
 </p>
 
-- 🔭 Currently building hybrid retrieval systems and LLM-powered tools for biomedical data
-- 🌱 Learning German (B1 in progress 🇩🇪) and diving deeper into information retrieval
-- 💬 Ask me about knowledge graphs, RAG pipelines, or biomedical NLP
+- 🌱 Learning German (B1 in progress 🇩🇪) and diving deeper into die Kultur
+- 💬 Ask me where to get the best vegetarian food around.
 - 🧬 Fun fact: My bonsai style is *fukinagashi* (windswept) — apparently I'm a bursty storm-coder
 -->
