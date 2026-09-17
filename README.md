@@ -44,16 +44,16 @@ I build things at the intersection of biomedical data, NLP, and machine learning
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avanibhat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanibhat&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avanibhat&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
